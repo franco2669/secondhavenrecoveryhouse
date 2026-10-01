@@ -1,0 +1,11 @@
+{
+  "reference_chat": { "title": "Critique the setup", "id": "01a0f56b-a9fa-7f62-8f82-ef1ade868c44", "reviewed_on": "2026-09-30" },
+  "working_name": "Second Haven Recovery House",
+  "name_status": "Proposed in reference chat; owner adoption, entity and name availability unconfirmed",
+  "launch_state": "Preparing to open; website is a private first version",
+  "supported_direction": ["West Fargo, North Dakota", "Planned nonclinical peer-run recovery housing", "Resident-elected roles and shared household responsibility", "Second-chance identity inspired by owners' animal-rescue interests"],
+  "pending_before_public_launch": ["Final name and entity", "Final operating model and admission criteria", "Opening authorization and date", "Occupancy and property suitability", "Rent, deposit and written terms", "Public contact and referral destination", "Actual house photography with publication permission"],
+  "deliberately_unclaimed": ["Approved bed count", "RHAP funding or provider status", "Certification or licensing", "24-hour onsite supervision", "Clinical services", "Pet-friendly admission", "Animal-assisted program", "Confirmed partnerships", "Real resident testimonials"],
+  "image_note": "Original generated nature artwork; not a photograph of the residence or a verified West Fargo location",
+  "website_data_handling": "No application form, intake collection, storage, analytics or outbound submissions. Font files initially loaded from Google Fonts."
+}
