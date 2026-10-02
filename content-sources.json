@@ -6,9 +6,10 @@
   "operator": "Jeremy R. Veum individually; no separate housing entity currently established",
   "supported_direction": ["West Fargo, North Dakota", "Planned nonclinical peer-run recovery housing", "Resident-elected roles and shared household responsibility", "Second-chance identity inspired by owners' animal-rescue interests"],
   "confirmed_inquiry_offer": {
-    "source": "User-confirmed JR terms in this conversation on 2026-10-01; user confirmed move-in availability of October 2, 2026 on 2026-10-02; $750 deposit supersedes the older $650 planning figure",
+    "source": "User-confirmed JR terms in this conversation on 2026-10-01; user confirmed move-in availability of October 2, 2026 and a three-month minimum rental term on 2026-10-02; $750 deposit supersedes the older $650 planning figure",
     "monthly_rent_per_private_room_usd": 900,
     "security_deposit_usd": 750,
+    "minimum_rental_term_months": 3,
     "rooms": [
       { "label": "Bedroom 2", "owner_reported_dimensions_ft": "9 x 11", "occupancy_offer": "Private bedroom for one resident", "furnishing": "Unfurnished", "level": "Lower level" },
       { "label": "Bedroom 3", "owner_reported_dimensions_ft": "11 x 8.5", "occupancy_offer": "Private bedroom for one resident", "furnishing": "Unfurnished", "level": "Lower level" }
