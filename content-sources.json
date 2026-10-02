@@ -1,12 +1,12 @@
 {
-  "reference_chat": { "title": "Critique the setup", "id": "01a0f56b-a9fa-7f62-8f82-ef1ade868c44", "reviewed_on": "2026-10-01" },
+  "reference_chat": { "title": "Critique the setup", "id": "01a0f56b-a9fa-7f62-8f82-ef1ade868c44", "reviewed_on": "2026-10-02" },
   "working_name": "Second Haven Recovery House",
   "name_status": "Public-facing working name; no separate operating entity or name-registration claim",
-  "launch_state": "Accepting private-room inquiries; move-in date pending; no immediate admission or room reservation promised",
+  "launch_state": "Accepting private-room inquiries; user-confirmed availability from October 2, 2026; no guaranteed admission or room reservation promised",
   "operator": "Jeremy R. Veum individually; no separate housing entity currently established",
   "supported_direction": ["West Fargo, North Dakota", "Planned nonclinical peer-run recovery housing", "Resident-elected roles and shared household responsibility", "Second-chance identity inspired by owners' animal-rescue interests"],
   "confirmed_inquiry_offer": {
-    "source": "User-confirmed JR terms in this conversation on 2026-10-01; $750 deposit supersedes the older $650 planning figure",
+    "source": "User-confirmed JR terms in this conversation on 2026-10-01; user confirmed move-in availability of October 2, 2026 on 2026-10-02; $750 deposit supersedes the older $650 planning figure",
     "monthly_rent_per_private_room_usd": 900,
     "security_deposit_usd": 750,
     "rooms": [
@@ -18,12 +18,12 @@
     "shared_facilities": "Common areas and 1.5 bathrooms with one shower",
     "access": "Stairs to lower-level bedrooms",
     "house_expectations": "Recovery-house rules apply; written rules and rental terms reviewed before an agreement",
-    "move_in_date": "Pending",
+    "move_in_date": "2026-10-02",
     "public_contact": { "name": "JR", "phone": "+14242854489", "channels": ["SMS", "Telephone"] }
   },
-  "pending_before_move_in": ["Move-in date", "Room readiness and property suitability", "Final written rental terms and admission process", "Applicable property and operating requirements"],
+  "pending_before_move_in": ["Room readiness and property suitability", "Final written rental terms and admission process", "Applicable property and operating requirements"],
   "other_unconfirmed": ["Internet availability", "Name registration", "Actual house photography with publication permission"],
-  "deliberately_unclaimed": ["Immediate availability or confirmed admission", "Approved bed count", "Independently measured room dimensions", "RHAP funding or provider status", "Certification or licensing", "24-hour onsite supervision", "Clinical services", "Pet-friendly admission", "Animal-assisted program", "Confirmed partnerships", "Real resident testimonials"],
+  "deliberately_unclaimed": ["Guaranteed admission or room reservation", "Approved bed count", "Independently measured room dimensions", "RHAP funding or provider status", "Certification or licensing", "24-hour onsite supervision", "Clinical services", "Pet-friendly admission", "Animal-assisted program", "Confirmed partnerships", "Real resident testimonials"],
   "image_note": "Original generated nature artwork; not a photograph of the residence or a verified West Fargo location",
   "website_data_handling": "No application form, on-site intake collection, storage, analytics or automatic outbound submissions. SMS and telephone links open the visitor's chosen contact app. Initial inquiries request no medical records. Font files load from Google Fonts."
 }
