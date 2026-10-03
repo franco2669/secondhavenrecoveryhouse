@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://secondhavenrecoveryhouse.vercel.app/sitemap.xml

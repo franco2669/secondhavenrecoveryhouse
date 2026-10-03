@@ -2,14 +2,24 @@
   "reference_chat": { "title": "Critique the setup", "id": "01a0f56b-a9fa-7f62-8f82-ef1ade868c44", "reviewed_on": "2026-10-03" },
   "working_name": "Second Haven Recovery House",
   "name_status": "Public-facing working name; no separate operating entity or name-registration claim",
-  "launch_state": "Pre-opening informational website only. Repairs and preparation are underway; no confirmed opening or move-in date. No rooms, prices, rental terms, or immediate placements currently advertised.",
+  "launch_state": "Room-offer copy for shared master-bedroom space at $750 per person per month and private Bedroom 2 at $900 per month, each with a $750 deposit. User-reported availability October 3, 2026. This file records source copy, not proof of deployed website status.",
   "operator": "Jeremy R. Veum individually; no separate housing entity currently established",
-  "supported_direction": ["West Fargo, North Dakota", "Planned nonclinical recovery housing", "Substance-free shared living with household responsibilities being finalized", "Second-chance identity inspired by animal-rescue interests"],
-  "current_owner_report": {
-    "source": "User relayed JR's updated account on 2026-10-03 and authorized correcting listings and the website. This supersedes prior empty-house, October 2 availability, and two-private-room advertising assumptions.",
-    "property_state": "Existing occupied home being prepared for a phased recovery-housing transition; not a vacant home ready for immediate new move-ins",
-    "readiness": "Flooring and other preparations remain; specific room-ready dates are not confirmed",
-    "room_arrangements": "Being revised; no public bed count, room assignment, or availability offer is confirmed",
+  "supported_direction": ["West Fargo, North Dakota", "Nonclinical recovery housing", "Substance-free shared living with household responsibilities to be reviewed before agreement", "Second-chance identity inspired by animal-rescue interests"],
+  "latest_user_offer_update": {
+    "source": "On 2026-10-03, the user coordinating with JR confirmed availability for the master bedroom and Bedroom 2 from that day, and Bedroom 2 at $900 monthly rent plus a $750 deposit. The user then rejected the proposed private-master offer and directed a shared master room instead. Shared pricing uses JR's established $750 per person monthly rent and $750 deposit. Current shared/private copy follows that user direction. Availability is user-reported, not an inspection or approval.",
+    "move_in_date": "2026-10-03",
+    "rooms": [
+      { "label": "Shared master bedroom", "owner_reported_dimensions_ft": "17 x 11", "whole_room_area_sq_ft": 187, "occupancy_offer": "Shared room space; no number of new spaces or approved capacity advertised", "monthly_rent_per_person_usd": 750, "security_deposit_per_person_usd": 750, "price_status": "Established JR per-person rate applied to user-directed shared offer", "furnishing": "Unfurnished; resident brings bed and furnishings" },
+      { "label": "Bedroom 2", "owner_reported_dimensions_ft": "9 x 11", "area_sq_ft": 99, "occupancy_offer": "Private bedroom for one resident", "monthly_rent_usd": 900, "security_deposit_usd": 750, "price_status": "User-confirmed", "furnishing": "Unfurnished, carried forward from established offer" }
+    ],
+    "minimum_rental_term_months": 3,
+    "pets": "Considered case by case",
+    "smoking": "Outdoor smoking only; no smoking indoors",
+    "included": ["Utilities", "Electricity", "Driveway parking", "Scheduled weekly washer/dryer access"],
+    "laundry_source": "Scheduled weekly access reflects JR's reported laundry proposal; no unlimited-access claim",
+    "property_state": "Shared household; no vacant-house or offsite-owner claim. Ask JR about current household arrangements.",
+    "readiness_boundary": "Earlier owner report described incomplete work. Latest user says rooms are available October 3; no independent readiness inspection or code approval has been verified.",
+    "room_arrangements": "Master bedroom offered as shared room space; Bedroom 2 offered privately for one resident. No advertised count of new shared spaces or approved-capacity claim.",
     "management": "An onsite management arrangement is under discussion; duties, compensation, supervision, and household governance are not finalized",
     "garage": "Possible distant-future project only; excluded from immediate opening plan and advertised sleeping capacity",
     "public_contact": { "name": "JR", "phone": "+14242854489", "channels": ["SMS", "Telephone"] }
@@ -22,10 +32,10 @@
     "access": "Stairs to lower-level bedrooms",
     "source": "Owner-reported property description and supplied property documents; not an occupancy approval"
   },
-  "superseded_advertising": "October 2, 2026 move-in date; two private unfurnished rooms in Bedrooms 2 and 3 at $900 each; assumption of an unoccupied house; a settled peer-run governance model. Historical terms are not a current offer.",
-  "pending_before_advertising_resumes": ["Actual room availability and readiness dates", "Occupancy and room arrangements", "Prices, deposits, furnishings, included amenities, and rental terms", "Written house rules and management responsibilities", "Applicable property and operating requirements"],
+  "superseded_advertising": "October 2, 2026 date and Bedrooms 2 and 3 as the available pair; assumption of an unoccupied house; a settled peer-run governance model; interim pre-opening messaging with no known move-in date; rejected private master at $900. Latest copy follows the user's October 3 shared-master and private-Bedroom-2 direction.",
+  "review_before_agreement": ["Current room availability and household arrangements", "Written house rules and management responsibilities", "Written rental terms", "Applicable property and operating requirements"],
   "other_unconfirmed": ["Internet availability", "Name registration", "Actual house photography with publication permission"],
-  "deliberately_unclaimed": ["Immediate move-in availability", "Guaranteed admission or room reservation", "Approved bed count", "Vacant property", "Settled peer-run or resident-elected governance", "RHAP funding or provider status", "Certification or licensing", "24-hour onsite supervision", "Clinical services", "Pet-friendly admission", "Animal-assisted program", "Confirmed partnerships", "Real resident testimonials"],
+  "deliberately_unclaimed": ["Independently inspected readiness", "Guaranteed admission or room reservation", "Approved bed count", "Vacant property", "Offsite owner", "Settled peer-run or resident-elected governance", "RHAP funding or provider status", "Certification or licensing", "24-hour onsite supervision", "Clinical services", "Guaranteed pet approval", "Animal-assisted program", "Confirmed partnerships", "Real resident testimonials"],
   "privacy": "Do not publish current occupants' identities, rent arrears, personal finances, or private relocation details.",
   "image_note": "Original generated nature artwork; not a photograph of the residence or a verified West Fargo location",
   "website_data_handling": "No application form, on-site intake collection, storage, analytics or automatic outbound submissions. SMS and telephone links open the visitor's chosen contact app. Initial inquiries request no medical records. Font files load from Google Fonts."
